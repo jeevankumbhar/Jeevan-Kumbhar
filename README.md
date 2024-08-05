@@ -2,6 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevan-kumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="jeevan-kumbhar" /> </p>
+<p align="right"><img src="![image](https://github.com/user-attachments/assets/b8e9c961-530e-4ebf-8c69-c1c03d6335e5) "/> </p>
+
+
 
 - 📫 How to reach me **jkumbhar8552@gmail.com**
 - ⚡ Fun fact **Hardworking 🎯**
